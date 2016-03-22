@@ -1,0 +1,18 @@
+{
+  "name": "gcloud-1458609690",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stephen Sawchuk <sawchuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.1",
+    "gcloud": "^0.29.0",
+    "node-uuid": "^1.4.7",
+    "request": "^2.69.0"
+  }
+}
